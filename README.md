@@ -17,7 +17,7 @@ My background combines **programming, statistics, mathematics, data processing, 
 
 ---
 
-## Selected projects
+## Selected individual projects
 
 ### [PNA Alpha/Epsilon Dihedral Angle Statistics](https://github.com/Pleratas/angle-statistics)
 
@@ -65,6 +65,28 @@ Includes implementations of Caesar cipher and One-Time Pad related tools.
 
 ---
 
+## Collaborative academic projects
+
+### [Rheumatoid Arthritis DNA Methylation Analysis](https://github.com/audra02/rheumatoid-arthritis-rhead-analysis)
+
+A group project analysing DNA methylation data related to rheumatoid arthritis using the `rhead` dataset.
+
+**Technologies used:** R, statistical analysis, data visualisation
+
+The analysis includes quality control, clustering, PCA, heatmaps, Wilcoxon tests, regression, volcano plots, Manhattan plots, GO analysis, and epigenetic clock-related analysis.
+
+---
+
+### [Biomedical Data Analysis](https://github.com/audra02/Biomedicinos_duomenu_analize)
+
+A collaborative biomedical data analysis repository containing two main tasks: FDA adverse event data analysis and epigenetic clock modelling using DNA methylation data.
+
+**Technologies used:** R, statistical modelling, machine learning, data visualisation
+
+The project includes data preparation, quality control, age-related CpG selection, regression and machine learning models, and model evaluation using MAE, RMSE, and correlation.
+
+---
+
 ## Currently looking to grow in
 
 - Data analysis
@@ -87,3 +109,4 @@ Includes implementations of Caesar cipher and One-Time Pad related tools.
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/justinas-tomkevicius](https://www.linkedin.com/in/justinas-tomkevicius/)
+- **GitHub:** [github.com/Pleratas](https://github.com/Pleratas)
