@@ -1,4 +1,4 @@
-# Hi, I'm Justinas 👋
+# Hi, I'm Justinas
 
 I am a **Bioinformatics student at Vilnius University** interested in data analysis, bioinformatics tools, software development, and practical technical problem-solving.
 
