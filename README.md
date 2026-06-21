@@ -35,7 +35,7 @@ Includes:
 
 ---
 
-### [PNA Torsion Angle Calculator](https://github.com/Pleratas/bioinformatics-assignment-2)
+### [PNA Torsion Angle Calculator](https://github.com/Pleratas/PNA-Torsion-Angle-Calculator)
 
 An Ada command-line program for extracting alpha and epsilon torsion angles from PDB and PDBx/mmCIF structural files.
 
@@ -45,7 +45,7 @@ The project focuses on parsing molecular structure files and calculating selecte
 
 ---
 
-### [Plane Atoms Generator](https://github.com/Pleratas/bioinformatics-assignment-1)
+### [Plane Atoms Generator](https://github.com/Pleratas/Plane-Atoms-Generator)
 
 An Ada command-line program for generating atom coordinates on a 3D plane.
 
@@ -109,4 +109,3 @@ The project includes data preparation, quality control, age-related CpG selectio
 ## Contact
 
 - **LinkedIn:** [linkedin.com/in/justinas-tomkevicius](https://www.linkedin.com/in/justinas-tomkevicius/)
-- **GitHub:** [github.com/Pleratas](https://github.com/Pleratas)
